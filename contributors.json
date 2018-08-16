@@ -5,5 +5,6 @@
     { "user":"justenwalker", "name":"Justen Walker", "isMentor":true, "platforms":["golang"] },
     { "user":"lorcanmcdonald", "name":"Lorcan McDonald", "isMentor":true, "platform":["haskell", "javascript", "vimscript"] },
     { "user":"gusty", "name":"Gustavo Leon", "isMentor":true, "platforms":["fsharp"] },
+    { "user":"davidalee", "name":"David Lee", "isMentor":false, "platforms":["javascript"] },
     { "user":"andre-correia", "name":"Andre Correia", "isMentor":false, "platforms":["fsharp"] }
 ]
