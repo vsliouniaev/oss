@@ -1,4 +1,5 @@
 [
     { "user":"jorgef", "name":"Jorge Fioranelli", "isMentor":"true", "platforms":["fsharp"] },
-    { "user":"eulerfx", "name":"Lev Gorodinski", "isMentor":"true", "platforms":["fsharp"] }
+    { "user":"eulerfx", "name":"Lev Gorodinski", "isMentor":"true", "platforms":["fsharp"] },
+    { "user":"lorcanmcdonald", "name":"Lorcan McDonald", "isMentor": true, "platform":["haskell", "javascript", "vimscript"] }
 ]
