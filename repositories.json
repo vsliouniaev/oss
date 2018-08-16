@@ -7,5 +7,9 @@
     { "repository":"eiriktsarpalis/TypeShape", "platforms":["fsharp"] },
     { "repository":"jet/kafunk", "platforms":["fsharp"] },
     { "repository":"jet/Vertigo.Json", "platforms":["fsharp"] },
-    { "repository":"jet/sagan", "platforms":["fsharp"] }
+    { "repository":"jet/sagan", "platforms":["fsharp"] },
+    { "repository":"Microsoft/visualfsharp", "platforms":["fsharp"] },
+    { "repository":"fsharp/FSharp.Data", "platforms":["fsharp"] },
+    { "repository":"mausch/Fleece", "platforms":["fsharp"] },
+    { "repository":"giraffe-fsharp/Giraffe", "platforms":["fsharp"] }    
 ]
