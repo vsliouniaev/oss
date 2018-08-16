@@ -11,5 +11,10 @@
     { "repository":"Microsoft/visualfsharp", "platforms":["fsharp"] },
     { "repository":"fsharp/FSharp.Data", "platforms":["fsharp"] },
     { "repository":"mausch/Fleece", "platforms":["fsharp"] },
-    { "repository":"giraffe-fsharp/Giraffe", "platforms":["fsharp"] }    
+    { "repository":"giraffe-fsharp/Giraffe", "platforms":["fsharp"] },
+    { "repository":"hashicorp/nomad", "platforms":["golang"] },    
+    { "repository":"joyent/containerpilot", "platforms":["golang"] },
+    { "repository":"jippi/hashi-ui", "platforms":["golang","javascript"] },
+    { "repository":"envoyproxy/envoy", "platforms":["c++"] },
+    { "repository":"terraform-providers/terraform-provider-azurerm", "platforms":["golang"] }    
 ]
