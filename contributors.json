@@ -1,6 +1,7 @@
 [
     { "user":"jorgef", "name":"Jorge Fioranelli", "isMentor":"true", "platforms":["fsharp"] },
     { "user":"eulerfx", "name":"Lev Gorodinski", "isMentor":"true", "platforms":["fsharp"] },
+    { "user":"taion809", "name":"Nicholas Johns", "isMentor":"false", "platforms":["golang"] },
     { "user":"lorcanmcdonald", "name":"Lorcan McDonald", "isMentor": true, "platform":["haskell", "javascript", "vimscript"] },
     { "user":"gusty", "name":"Gustavo Leon", "isMentor":"true", "platforms":["fsharp"] }
 ]
