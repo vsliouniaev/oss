@@ -1,0 +1,11 @@
+[
+    { "repository":"fsprojects/paket", "platforms":["fsharp"] },
+    { "repository":"fscheck/fscheck", "platforms":["fsharp"] },
+    { "repository":"fsharp/FAKE", "platforms":["fsharp"] },
+    { "repository":"fsprojects/Argu", "platforms":["fsharp"] },
+    { "repository":"fsprojects/FSharp.Control.AsyncSeq", "platforms":["fsharp"] },
+    { "repository":"eiriktsarpalis/TypeShape", "platforms":["fsharp"] },
+    { "repository":"jet/kafunk", "platforms":["fsharp"] },
+    { "repository":"jet/Vertigo.Json", "platforms":["fsharp"] },
+    { "repository":"jet/sagan", "platforms":["fsharp"] }
+]
