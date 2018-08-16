@@ -1,8 +1,11 @@
 [
+    { "repository":"dotnet/docs", "platforms":["markdown"] },
+    { "repository":"eventstore/eventstore", "platforms":["csharp"] },
     { "repository":"fsprojects/paket", "platforms":["fsharp"] },
     { "repository":"fscheck/fscheck", "platforms":["fsharp"] },
     { "repository":"fsharp/FAKE", "platforms":["fsharp"] },
     { "repository":"fsprojects/Argu", "platforms":["fsharp"] },
+    { "repository":"fsprojects/TickSpec", "platforms":["fsharp"] },
     { "repository":"fsprojects/FSharp.Control.AsyncSeq", "platforms":["fsharp"] },
     { "repository":"eiriktsarpalis/TypeShape", "platforms":["fsharp"] },
     { "repository":"jet/kafunk", "platforms":["fsharp"] },
@@ -16,5 +19,6 @@
     { "repository":"joyent/containerpilot", "platforms":["golang"] },
     { "repository":"jippi/hashi-ui", "platforms":["golang","javascript"] },
     { "repository":"envoyproxy/envoy", "platforms":["c++"] },
+    { "repository":"serilog/serilog-sinks-async", "platforms":["csharp"] },
     { "repository":"terraform-providers/terraform-provider-azurerm", "platforms":["golang"] }    
 ]
