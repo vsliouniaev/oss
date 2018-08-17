@@ -1,4 +1,5 @@
 [
+    { "user":"7sharp9", "name":"Dave Thomas", "isMentor":true, "platforms":["fsharp"] },
     { "user":"jorgef", "name":"Jorge Fioranelli", "isMentor":true, "platforms":["fsharp"] },
     { "user":"eulerfx", "name":"Lev Gorodinski", "isMentor":true, "platforms":["fsharp"] },
     { "user":"taion809", "name":"Nicholas Johns", "isMentor":false, "platforms":["golang"] },
