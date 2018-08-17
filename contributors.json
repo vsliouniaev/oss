@@ -12,5 +12,6 @@
     { "user":"enricosada", "name":"Enrico Sada", "isMentor":true, "platforms":["fsharp"] },
     { "user":"simonmcl", "name":"Simon McLoughlin", "isMentor":true, "platforms":["iOS"] },
     { "user":"kimserey", "name":"Kimserey Lam", "isMentor":false, "platforms":["fsharp", "csharp"] },
-    { "user":"pnobre", "name":"Paulo Nobre", "isMentor":false, "platforms":["fsharp", "csharp"] }
+    { "user":"pnobre", "name":"Paulo Nobre", "isMentor":false, "platforms":["fsharp", "csharp"] },
+    { "user":"xlozinguez", "name":"Xavier Lozinguez", "isMentor":true, "platforms":["javascript"] }
 ]
