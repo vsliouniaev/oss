@@ -8,6 +8,8 @@
     { "repository":"fsprojects/TickSpec", "platforms":["fsharp"] },
     { "repository":"fsprojects/FSharp.Control.AsyncSeq", "platforms":["fsharp"] },
     { "repository":"eiriktsarpalis/TypeShape", "platforms":["fsharp"] },
+    { "repository":"fsharp/FsAutoComplete", "platforms":["fsharp"] },
+    { "repository":"ionide/ionide-vscode-fsharp", "platforms":["fsharp"] },
     { "repository":"jet/kafunk", "platforms":["fsharp"] },
     { "repository":"jet/Vertigo.Json", "platforms":["fsharp"] },
     { "repository":"jet/sagan", "platforms":["fsharp"] },
