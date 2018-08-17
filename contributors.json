@@ -10,5 +10,6 @@
     { "user":"adityavkk", "name":"Aditya Kumarakrishnan", "isMentor":true, "platforms":["haskell", "javascript", "fsharp"] },
     { "user":"bartelink", "name":"Ruben Bartelink", "isMentor":true, "platforms":["fsharp"] },
     { "user":"enricosada", "name":"Enrico Sada", "isMentor":true, "platforms":["fsharp"] },
-    { "user":"simonmcl", "name":"Simon McLoughlin", "isMentor":true, "platforms":["iOS"] }
+    { "user":"simonmcl", "name":"Simon McLoughlin", "isMentor":true, "platforms":["iOS"] },
+    { "user":"kimserey", "name":"Kimserey Lam", "isMentor":false, "platforms":["fsharp", "csharp"] }
 ]
