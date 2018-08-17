@@ -24,5 +24,6 @@
     { "repository":"serilog/serilog-sinks-async", "platforms":["csharp"] },
     { "repository":"terraform-providers/terraform-provider-azurerm", "platforms":["golang"] },
     { "repository":"apple/swift", "platforms":["iOS"] },
-    { "repository":"Alamofire/Alamofire", "platforms":["iOS"] } 
+    { "repository":"Alamofire/Alamofire", "platforms":["iOS"] },
+    { "repository":"dotnet/orleans", "platforms":["csharp"] }
 ]
