@@ -20,5 +20,7 @@
     { "repository":"jippi/hashi-ui", "platforms":["golang","javascript"] },
     { "repository":"envoyproxy/envoy", "platforms":["c++"] },
     { "repository":"serilog/serilog-sinks-async", "platforms":["csharp"] },
-    { "repository":"terraform-providers/terraform-provider-azurerm", "platforms":["golang"] }    
+    { "repository":"terraform-providers/terraform-provider-azurerm", "platforms":["golang"] },
+    { "repository":"apple/swift", "platforms":["iOS"] },
+    { "repository":"Alamofire/Alamofire", "platforms":["iOS"] } 
 ]
