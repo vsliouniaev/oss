@@ -16,5 +16,6 @@
     { "user":"bugra", "name":"Bugra Akyildiz", "isMentor":true, "platforms":["python", "fsharp"] },
     { "user":"egracer", "name":"Ethan Gracer", "isMentor":false, "platforms":["fsharp"] },
     { "user":"pnobre", "name":"Paulo Nobre", "isMentor":false, "platforms":["fsharp", "csharp"] },
-    { "user":"xlozinguez", "name":"Xavier Lozinguez", "isMentor":true, "platforms":["javascript"] }
+    { "user":"xlozinguez", "name":"Xavier Lozinguez", "isMentor":true, "platforms":["javascript"] },
+    { "user":"troykershaw", "name":"Troy Kershaw", "isMentor":false, "platforms":["fsharp"] }
 ]
