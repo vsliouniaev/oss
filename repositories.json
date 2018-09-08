@@ -29,12 +29,13 @@
     { "repository":"facebook/react", "platforms":["javascript"] },
     { "repository":"zeit/next.js", "platforms":["javascript"] },
     { "repository":"facebook/immutable-js", "platforms":["javascript"] },
-    { "repository":"ReactiveX/rxjs", "platforms":["javascript"] }
-    { "repository":"fsprojects/FSharp.TypeProviders.SDK", "platforms":["fsharp"] }
-    { "repository":"ctaggart/froto", "platforms":["fsharp"] }
-    { "repository":"ctaggart/FsAst", "platforms":["fsharp"] }
-    { "repository":"fsprojects/fantomas", "platforms":["fsharp"] }
-    { "repository":"jack-pappas/ExtCore", "platforms":["fsharp"] }
-    { "repository":"jet/schematization", "platforms":["fsharp"] }
-    { "repository":"7sharp9/write-you-an-inference-in-fsharp", "platforms":["fsharp"] }
+    { "repository":"ReactiveX/rxjs", "platforms":["javascript"] },
+    { "repository":"fsprojects/FSharp.TypeProviders.SDK", "platforms":["fsharp"] },
+    { "repository":"ctaggart/froto", "platforms":["fsharp"] },
+    { "repository":"ctaggart/FsAst", "platforms":["fsharp"] },
+    { "repository":"fsprojects/fantomas", "platforms":["fsharp"] },
+    { "repository":"jack-pappas/ExtCore", "platforms":["fsharp"] },
+    { "repository":"jet/schematization", "platforms":["fsharp"] },
+    { "repository":"7sharp9/write-you-an-inference-in-fsharp", "platforms":["fsharp"] },
+    { "repository":"coreos/prometheus-operator", "platforms":["golang", "helm"] }
 ]
