@@ -17,7 +17,7 @@
     { "repository":"fsharp/FSharp.Data", "platforms":["fsharp"] },
     { "repository":"mausch/Fleece", "platforms":["fsharp"] },
     { "repository":"giraffe-fsharp/Giraffe", "platforms":["fsharp"] },
-    { "repository":"hashicorp/nomad", "platforms":["golang"] },    
+    { "repository":"hashicorp/nomad", "platforms":["golang"] },
     { "repository":"joyent/containerpilot", "platforms":["golang"] },
     { "repository":"jippi/hashi-ui", "platforms":["golang","javascript"] },
     { "repository":"envoyproxy/envoy", "platforms":["c++"] },
@@ -38,5 +38,6 @@
     { "repository":"jet/schematization", "platforms":["fsharp"] },
     { "repository":"7sharp9/write-you-an-inference-in-fsharp", "platforms":["fsharp"] },
     { "repository":"coreos/prometheus-operator", "platforms":["golang", "helm"] },
-    { "repository":"helm/charts", "platforms":["helm"] }
+    { "repository":"helm/charts", "platforms":["helm"] },
+    { "repository":"prometheus/prometheus", "platforms":["golang"] }
 ]
