@@ -39,5 +39,6 @@
     { "repository":"7sharp9/write-you-an-inference-in-fsharp", "platforms":["fsharp"] },
     { "repository":"coreos/prometheus-operator", "platforms":["golang"] },
     { "repository":"helm/charts", "platforms":["helm"] },
-    { "repository":"prometheus/prometheus", "platforms":["golang"] }
+    { "repository":"prometheus/prometheus", "platforms":["golang"] },
+    { "repository":"jacksontj/promxy", "platforms":["golang"] }
 ]
